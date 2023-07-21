@@ -226,7 +226,7 @@ PRs welcomed!
 ### Slides
 
 - [diapo](https://github.com/lvignoli/diapo) - A minimal and simplistic presentation template.
-- [typst-slides](https://github.com/andreasKroepelin/typst-slides) - A template for creating slides in Typst
+- [polylux](https://github.com/andreasKroepelin/polylux) - A template for creating slides in Typst
 
 <!-- Local Variables: -->
 <!-- markdown-toc-header-toc-title: "## Contents" -->
