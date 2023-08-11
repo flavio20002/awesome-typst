@@ -235,6 +235,7 @@ PRs welcomed!
 
 - [diapo](https://github.com/lvignoli/diapo) - A minimal and simplistic presentation template.
 - [polylux](https://github.com/andreasKroepelin/polylux) - Create presentation slides in Typst
+- [typst-presentation-minimal-template](https://github.com/flavio20002/typst-presentation-minimal-template) - Minimal modern template customizable and ready to use
 
 <!-- Local Variables: -->
 <!-- markdown-toc-header-toc-title: "## Contents" -->
